@@ -1,6 +1,7 @@
-pandas
+
+streamlit
+opencv-python
 numpy
-isodate
-matplotlib
-nltk
-scikit-learn 
+requests
+pandas
+pillow
